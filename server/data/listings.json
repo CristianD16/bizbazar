@@ -1,0 +1,314 @@
+[
+  {
+    "id": "1",
+    "title": "Café Premium en Providencia",
+    "type": "sme",
+    "category": "Restaurantes y Alimentos",
+    "description": "Café boutique establecido hace 5 años en una de las zonas más transitadas de Providencia, Santiago. Clientela fiel, excelente reputación en Google Maps (4.8 estrellas). Incluye equipamiento completo, marca registrada y contrato de arriendo favorable por 3 años más.",
+    "askingPrice": 45000000,
+    "currency": "CLP",
+    "monthlyRevenue": 8500000,
+    "monthlyProfit": 2800000,
+    "employees": 6,
+    "yearEstablished": 2021,
+    "location": {
+      "city": "Santiago",
+      "region": "Región Metropolitana",
+      "country": "Chile"
+    },
+    "images": [],
+    "seller": {
+      "name": "María González",
+      "verified": true
+    },
+    "tags": ["café", "restaurante", "providencia", "santiago"],
+    "featured": true,
+    "createdAt": "2026-03-15T10:00:00Z"
+  },
+  {
+    "id": "2",
+    "title": "Tienda E-commerce de Ropa Deportiva",
+    "type": "ecommerce",
+    "category": "E-commerce",
+    "description": "Tienda online de ropa deportiva con presencia en Chile y Perú. Más de 15,000 clientes registrados, integración con Shopify, MercadoLibre y Falabella Marketplace. Inventario valorado en $5M CLP incluido. Marca con fuerte presencia en Instagram (25K seguidores).",
+    "askingPrice": 32000000,
+    "currency": "CLP",
+    "monthlyRevenue": 12000000,
+    "monthlyProfit": 3500000,
+    "employees": 3,
+    "yearEstablished": 2022,
+    "location": {
+      "city": "Santiago",
+      "region": "Región Metropolitana",
+      "country": "Chile"
+    },
+    "images": [],
+    "seller": {
+      "name": "Carlos Muñoz",
+      "verified": true
+    },
+    "tags": ["ecommerce", "ropa", "deportiva", "shopify"],
+    "featured": true,
+    "createdAt": "2026-03-10T14:30:00Z"
+  },
+  {
+    "id": "3",
+    "title": "Franquicia de Lavandería Autoservicio",
+    "type": "franchise",
+    "category": "Franquicias",
+    "description": "Oportunidad de franquicia de lavandería autoservicio con modelo probado en 12 locales a nivel nacional. Inversión incluye equipamiento, capacitación, soporte operativo continuo y territorio exclusivo. ROI promedio de 18 meses.",
+    "askingPrice": 28000000,
+    "currency": "CLP",
+    "monthlyRevenue": 6000000,
+    "monthlyProfit": 2200000,
+    "employees": 2,
+    "yearEstablished": 2019,
+    "location": {
+      "city": "Viña del Mar",
+      "region": "Valparaíso",
+      "country": "Chile"
+    },
+    "images": [],
+    "seller": {
+      "name": "Franquicias LavaExpress",
+      "verified": true
+    },
+    "tags": ["franquicia", "lavandería", "autoservicio"],
+    "featured": false,
+    "createdAt": "2026-03-08T09:00:00Z"
+  },
+  {
+    "id": "4",
+    "title": "Agencia de Marketing Digital",
+    "type": "sme",
+    "category": "Servicios Profesionales",
+    "description": "Agencia de marketing digital con cartera de 35 clientes activos, contratos mensuales recurrentes. Especializada en SEO, SEM y redes sociales para el mercado chileno y colombiano. Equipo remoto consolidado, operación 100% digital.",
+    "askingPrice": 65000000,
+    "currency": "CLP",
+    "monthlyRevenue": 15000000,
+    "monthlyProfit": 6500000,
+    "employees": 8,
+    "yearEstablished": 2020,
+    "location": {
+      "city": "Santiago",
+      "region": "Región Metropolitana",
+      "country": "Chile"
+    },
+    "images": [],
+    "seller": {
+      "name": "Rodrigo Soto",
+      "verified": true
+    },
+    "tags": ["marketing", "digital", "agencia", "servicios"],
+    "featured": true,
+    "createdAt": "2026-03-12T11:00:00Z"
+  },
+  {
+    "id": "5",
+    "title": "Farmacia Independiente en Concepción",
+    "type": "sme",
+    "category": "Salud y Bienestar",
+    "description": "Farmacia independiente con 8 años de operación en barrio residencial de Concepción. Licencias al día, sistema de gestión de inventario, base de clientes leales. Ubicación estratégica cerca de centros médicos.",
+    "askingPrice": 55000000,
+    "currency": "CLP",
+    "monthlyRevenue": 22000000,
+    "monthlyProfit": 4000000,
+    "employees": 5,
+    "yearEstablished": 2018,
+    "location": {
+      "city": "Concepción",
+      "region": "Biobío",
+      "country": "Chile"
+    },
+    "images": [],
+    "seller": {
+      "name": "Patricia Hernández",
+      "verified": false
+    },
+    "tags": ["farmacia", "salud", "concepción"],
+    "featured": false,
+    "createdAt": "2026-03-05T16:00:00Z"
+  },
+  {
+    "id": "6",
+    "title": "Tienda Online de Productos Orgánicos",
+    "type": "ecommerce",
+    "category": "E-commerce",
+    "description": "E-commerce de productos orgánicos y naturales con despacho a todo Chile. Alianzas con más de 40 productores locales. Plataforma propia en WooCommerce, sistema de suscripción mensual con 800 suscriptores activos.",
+    "askingPrice": 18000000,
+    "currency": "CLP",
+    "monthlyRevenue": 7500000,
+    "monthlyProfit": 2000000,
+    "employees": 4,
+    "yearEstablished": 2023,
+    "location": {
+      "city": "Valdivia",
+      "region": "Los Ríos",
+      "country": "Chile"
+    },
+    "images": [],
+    "seller": {
+      "name": "Camila Reyes",
+      "verified": true
+    },
+    "tags": ["orgánico", "ecommerce", "natural", "suscripción"],
+    "featured": false,
+    "createdAt": "2026-03-01T08:00:00Z"
+  },
+  {
+    "id": "7",
+    "title": "Franquicia de Heladería Artesanal",
+    "type": "franchise",
+    "category": "Franquicias",
+    "description": "Franquicia de heladería artesanal con presencia en Chile, Argentina y Perú. Más de 50 sabores únicos, capacitación completa, diseño de local incluido. Marca reconocida con fuerte presencia en redes sociales.",
+    "askingPrice": 38000000,
+    "currency": "CLP",
+    "monthlyRevenue": 9000000,
+    "monthlyProfit": 3200000,
+    "employees": 5,
+    "yearEstablished": 2017,
+    "location": {
+      "city": "Buenos Aires",
+      "region": "Buenos Aires",
+      "country": "Argentina"
+    },
+    "images": [],
+    "seller": {
+      "name": "Helados del Sur SpA",
+      "verified": true
+    },
+    "tags": ["franquicia", "heladería", "artesanal", "argentina"],
+    "featured": true,
+    "createdAt": "2026-03-14T13:00:00Z"
+  },
+  {
+    "id": "8",
+    "title": "Software SaaS para Gestión de Pymes",
+    "type": "ecommerce",
+    "category": "Tecnología",
+    "description": "Plataforma SaaS de gestión empresarial para pymes con 1,200 usuarios activos pagando suscripción mensual. Facturación electrónica, inventario, CRM y reportes. Stack moderno (React + Node.js). MRR de $4.5M CLP.",
+    "askingPrice": 120000000,
+    "currency": "CLP",
+    "monthlyRevenue": 4500000,
+    "monthlyProfit": 3200000,
+    "employees": 4,
+    "yearEstablished": 2021,
+    "location": {
+      "city": "Medellín",
+      "region": "Antioquia",
+      "country": "Colombia"
+    },
+    "images": [],
+    "seller": {
+      "name": "Tech Solutions LATAM",
+      "verified": true
+    },
+    "tags": ["saas", "software", "pymes", "tecnología"],
+    "featured": false,
+    "createdAt": "2026-02-28T10:00:00Z"
+  },
+  {
+    "id": "9",
+    "title": "Centro de Estética y Spa",
+    "type": "sme",
+    "category": "Salud y Bienestar",
+    "description": "Centro de estética integral en Las Condes con 6 cabinas de tratamiento, equipamiento de última generación. Cartera de más de 2,000 clientas activas. Ubicación premium con estacionamiento propio.",
+    "askingPrice": 78000000,
+    "currency": "CLP",
+    "monthlyRevenue": 18000000,
+    "monthlyProfit": 5500000,
+    "employees": 10,
+    "yearEstablished": 2019,
+    "location": {
+      "city": "Santiago",
+      "region": "Región Metropolitana",
+      "country": "Chile"
+    },
+    "images": [],
+    "seller": {
+      "name": "Valentina Pizarro",
+      "verified": true
+    },
+    "tags": ["estética", "spa", "belleza", "las condes"],
+    "featured": false,
+    "createdAt": "2026-03-07T15:00:00Z"
+  },
+  {
+    "id": "10",
+    "title": "Distribuidora de Alimentos Gourmet",
+    "type": "sme",
+    "category": "Restaurantes y Alimentos",
+    "description": "Distribuidora de alimentos gourmet e importados con red de más de 150 clientes entre restaurantes, hoteles y tiendas especializadas en Lima. Bodega propia de 500m², flota de 3 vehículos refrigerados incluida.",
+    "askingPrice": 95000000,
+    "currency": "CLP",
+    "monthlyRevenue": 35000000,
+    "monthlyProfit": 7000000,
+    "employees": 12,
+    "yearEstablished": 2016,
+    "location": {
+      "city": "Lima",
+      "region": "Lima",
+      "country": "Perú"
+    },
+    "images": [],
+    "seller": {
+      "name": "Gourmet Perú SAC",
+      "verified": true
+    },
+    "tags": ["distribuidora", "alimentos", "gourmet", "perú"],
+    "featured": false,
+    "createdAt": "2026-02-25T12:00:00Z"
+  },
+  {
+    "id": "11",
+    "title": "Academia de Inglés Online",
+    "type": "ecommerce",
+    "category": "Educación",
+    "description": "Academia de inglés 100% online con más de 3,000 estudiantes activos en Chile, Colombia y México. Plataforma propia con clases en vivo y contenido grabado. 15 profesores nativos. Fuerte crecimiento mes a mes.",
+    "askingPrice": 52000000,
+    "currency": "CLP",
+    "monthlyRevenue": 11000000,
+    "monthlyProfit": 4200000,
+    "employees": 18,
+    "yearEstablished": 2022,
+    "location": {
+      "city": "Santiago",
+      "region": "Región Metropolitana",
+      "country": "Chile"
+    },
+    "images": [],
+    "seller": {
+      "name": "EnglishNow SpA",
+      "verified": true
+    },
+    "tags": ["educación", "inglés", "online", "academia"],
+    "featured": false,
+    "createdAt": "2026-03-03T09:30:00Z"
+  },
+  {
+    "id": "12",
+    "title": "Franquicia de Comida Rápida Saludable",
+    "type": "franchise",
+    "category": "Franquicias",
+    "description": "Franquicia de fast food saludable con concepto único en el mercado latinoamericano. 8 locales operando exitosamente. Menú basado en bowls, wraps y jugos naturales. Inversión incluye local llave en mano.",
+    "askingPrice": 42000000,
+    "currency": "CLP",
+    "monthlyRevenue": 10000000,
+    "monthlyProfit": 3000000,
+    "employees": 7,
+    "yearEstablished": 2020,
+    "location": {
+      "city": "Santiago",
+      "region": "Región Metropolitana",
+      "country": "Chile"
+    },
+    "images": [],
+    "seller": {
+      "name": "GreenBowl SpA",
+      "verified": true
+    },
+    "tags": ["franquicia", "comida", "saludable", "fast food"],
+    "featured": true,
+    "createdAt": "2026-03-13T10:00:00Z"
+  }
+]
